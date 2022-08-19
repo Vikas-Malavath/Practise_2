@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Movie_1",
+        "description" : "Movie_1 is about ..... which revolves around ......",
+        "rating" : 4
+    },
+    {
+        "name" : "Movie_2",
+        "description" :"Movie_2 is about a character which ..... where the character......",
+        "rating" : 5
+    },
+    {
+        "name" : "Movie_3",
+        "description" :"Movie_3 is an intriguing ..... which revolves around ......",
+        "rating" : 3
+    }
+]
